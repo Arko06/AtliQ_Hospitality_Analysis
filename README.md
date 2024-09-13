@@ -1,8 +1,10 @@
 AtliQ Hospitality Data Analysis
+
 Project Overview
+
 This project aims to analyze data for AtliQ Hospitality, a luxury hotel brand. The goal of the analysis is to provide insights into various booking platforms and their performance across different cities. The analysis focuses on identifying trends and patterns that can be useful for improving customer engagement and optimizing platform usage.
 
-Key Features
+Key Features:
 Data Analysis: Investigates booking data across different platforms, cities, and categories.
 Visualizations: Includes charts and visual aids to help stakeholders quickly grasp key trends.
 Platform Insights: Focuses on identifying the most popular booking platforms and cities for AtliQ Hospitality's luxury services.
